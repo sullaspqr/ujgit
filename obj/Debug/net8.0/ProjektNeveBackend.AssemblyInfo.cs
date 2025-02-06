@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjektNeveBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd7e1b075ae1342e27dcd1261545140c9a52bea9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+155c5a35327302a98d5008b9917bcac927ff0041")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjektNeveBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjektNeveBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
