@@ -62,7 +62,7 @@ namespace ProjektNeveBackend
 
         public static void Main(string[] args)
         {
-            //Ezt ki kell venni éles üzemnél!!!!x!!!x!! Ez csak a teszt üzemhez van!!!!!!!
+            //Ezt ki kell venni ï¿½les ï¿½zemnï¿½l!!!!!!!!! Ez csak a teszt ï¿½zemhez van!!!!!!!
             Program.LoggedInUsers["token"] = new User { Jogosultsag = 9 };
 
             var builder = WebApplication.CreateBuilder(args);
