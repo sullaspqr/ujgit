@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\kerenyir\source\repos\ProjektNeveBackend\ProjektNeveBackend\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-01-27T07:18:31.8180300Z;True|2025-01-22T11:12:48.0627974+01:00;True|2025-01-22T09:01:57.8776260+01:00;True|2025-01-22T08:29:23.3079304+01:00;True|2025-01-22T07:46:11.5675550+01:00;True|2025-01-15T11:41:25.1953576+01:00;True|2025-01-15T10:19:24.8538583+01:00;True|2025-01-15T09:45:06.9922473+01:00;True|2025-01-15T08:58:50.9984851+01:00;True|2025-01-15T08:42:54.0265567+01:00;True|2025-01-15T08:24:32.5685826+01:00;True|2025-01-15T08:23:13.3840707+01:00;True|2025-01-15T08:22:25.8543365+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

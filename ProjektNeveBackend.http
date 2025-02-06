@@ -1,0 +1,6 @@
+@ProjektNeveBackend_HostAddress = http://localhost:5212
+
+GET {{ProjektNeveBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
