@@ -6,6 +6,7 @@
 .pnp.js
 /bin
 /obj
+/.vs
 
 # testing
 /coverage
